@@ -1,0 +1,10 @@
+name: 2020_multi_hic
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - pip:
+        - numpy
+        - scipy
+        - matplotlib
+
