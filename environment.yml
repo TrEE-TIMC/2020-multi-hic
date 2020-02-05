@@ -4,6 +4,7 @@ channels:
 dependencies:
     - python
     - pip:
+        - pip
         - numpy
         - scipy
         - matplotlib
