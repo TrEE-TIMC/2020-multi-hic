@@ -4,5 +4,4 @@
 
 Nelle Varoquaux, Virginia S. Lioy, Frédéric Boccard, Ivan Junier 
 
-This repository will contain the code and manuscript after the manuscript is
-accepted.
+Code (Methods.html) and manuscript (Varoquaux_Computational_MethodsMolBiol_2022.pdf).
